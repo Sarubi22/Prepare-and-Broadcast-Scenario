@@ -2,7 +2,7 @@
 
 This repository contains the numerical codes for the paper  
 **"The Prepare and Broadcast Scenario"**  
-by T. S. Sarubi, M. Alves, S. Zamora, V. Alves, A. de Oliveira Junior, C. Roch i Carceller, A. Tavakoli, and R. Chaves.
+by T. S. Sarubi et al..
 
 ---
 
